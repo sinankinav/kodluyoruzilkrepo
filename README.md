@@ -1,23 +1,25 @@
-# kodluyoruz ilk repo
+ kodluyoruz ilk repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-#Installation
+Installation
 -----------------------
-[git clone] (https://github.com/sinankinav/kodluyoruzilkrepo.git)
+git clone https://github.com/sinankinav/kodluyoruzilkrepo.git
 
-#Usage
+Usage
 ----------------------------
 projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-[cd kodluyoruzilkrepo
-code .] ()
+cd kodluyoruzilkrepo
+code .
+
 -------------------------------------
-#Contributing
+Contributing
 ---------------------------------
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#License
+License
 ----------------------------------
-[](https://choosealicense.com/licenses/mit/)
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
